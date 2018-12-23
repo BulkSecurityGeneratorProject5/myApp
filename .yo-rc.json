@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.itrjp.myapp",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.7.1",
+    "applicationType": "uaa",
+    "baseName": "myApp",
+    "packageName": "com.itrjp.myapp",
+    "packageFolder": "com/itrjp/myapp",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Yjg0ZmM1MzUxMTQyY2QzZmMxMWFkZTIxYWFkNTUxNjFlMzRkOTVmZjE1M2QzMWVmMWZiNjQwZDVhMDhkMmM0ZmYxN2FhNzIzMjA0NTQwYjE4ZGQyMmFiNjlkYWU0NDZhYmYxNzViMTFhZWE5MDM5OGM5NjQ3ZjVlMjg4ODE1ZmE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ],
+    "skipClient": true
+  }
+}
